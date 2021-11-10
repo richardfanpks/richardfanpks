@@ -1,0 +1,3 @@
+- 👋 Hi, I'm Richard
+- 👀 I’m interested in learning and expanding my horizons/ 
+- 🌱 I’m currently learning about Flask on top of a little bit of C coding
